@@ -1,3 +1,7 @@
+## Branches
+
+Check out diffrent branches like [Rusqlite](https://github.com/Schmidii99/Tauri-SvelteKit-Tailwind/tree/rusqlite) that include a sqlite database.
+
 ## Clone
 
 Once you've cloned this project and installed all dependencies with `npm install`, make sure you have all dependencies installed. 
